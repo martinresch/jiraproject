@@ -1,1 +1,1 @@
-# jira project
+# JIRA Project
